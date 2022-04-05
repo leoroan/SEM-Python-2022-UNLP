@@ -30,26 +30,23 @@ def informar_alumnos_por_debajo_del_promedio(nombres,nota1,nota2,promedio):
       print("el alumno: ",nombres[x]," está por debajo del promedio (",promedio,")" )
       
 
-# Abro los archivos y los combierto a una lista para facilitar su lectura
+# Abro los archivos y los convierto a una lista para facilitar su lectura
 nombres1 = list(open("nombres_1.txt", encoding='utf-8'))
-
-# formateo la lista recibida eliminando caracteres innecesarios
-lista1 = formatear_Lista(nombres1)
-
 notas1 = list(open("eval1.txt", encoding='utf-8'))
 notas2 = list(open("eval2.txt", encoding='utf-8'))
 
+# formateo la lista recibida eliminando caracteres innecesarios
+lista1 = formatear_Lista(nombres1)
 lista3 = formatear_Lista(notas1)
 lista4 = formatear_Lista(notas2)
 
-# imprima con formato los nombres de los estudiantes con las
-# correspondientes nota y la suma de ambas como se ve en la imagen
-print("estudiante  nota1  nota2  suma_notas")
+# imprime los nombres de los estudiantes con la correspondientes nota total
 for x in range(len(lista1)):
     print(x,  lista1[x]," Total_: ",int(lista3[x])+int(lista4[x]))
 
 listaAux = str_to_num(lista3)
 promedio_notas = round(sum(listaAux)/len(lista3), 2)
-print("El promedio de las notas es: ", promedio_notas)
 
+
+print("El promedio de las notas es: ", promedio_notas)
 informar_alumnos_por_debajo_del_promedio(lista1,lista3,lista4,promedio_notas)
