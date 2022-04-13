@@ -1,0 +1,592 @@
+s2,2021,"After crossing paths at a party, a Cape Town teen sets out to prove whether a private-school swimming star is her sister who was abducted at birth."
+s3,2021,"To protect his family from a powerful drug lord, skilled thief Mehdi and his expert team of robbers are pulled into a violent and deadly turf war."
+s4,2021,"Feuds, flirtations and toilet talk go down among the incarcerated women at the Orleans Justice Center in New Orleans on this gritty reality series."
+s5,2021,"In a city of coaching centers known to train India’s finest collegiate minds, an earnest but unexceptional student and his friends navigate campus life."
+s6,2021,"The arrival of a charismatic young priest brings glorious miracles, ominous mysteries and renewed religious fervor to a dying town desperate to believe."
+s7,2021,"Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it."
+s9,2021,"A talented batch of amateur bakers face off in a 10-week competition, whipping up their best dishes in the hopes of being named the U.K.'s best."
+s10,2021,A woman adjusting to life after a loss contends with a feisty bird that's taken over her garden — and a husband who's struggling to find a way forward.
+s11,2021,"Sicily boasts a bold ""Anti-Mafia"" coalition. But what happens when those trying to bring down organized crime are accused of being criminals themselves?"
+s12,2021,"Struggling to earn a living in Bangkok, a man joins an emergency rescue service and realizes he must unravel a citywide conspiracy."
+s13,2021,"After most of her family is murdered in a terrorist bombing, a young woman is unknowingly lured into joining the very group that killed them."
+s14,2021,"When the clever but socially-awkward Tetê joins a new school, she'll do anything to fit in. But the queen bee among her classmates has other ideas."
+s15,2021,Cameras following Bengaluru police on the job offer a rare glimpse into the complex and challenging inner workings of four major crime investigations.
+s16,2021,"Students of color navigate the daily slights and slippery politics of life at an Ivy League college that's not nearly as ""post-racial"" as it thinks."
+s19,2021,"After a deadly home invasion at a couple’s new dream house, the traumatized wife searches for answers — and learns the real danger is just beginning."
+s20,2021,"In the 1960s, a Holocaust survivor joins a group of self-trained spies who seek justice against Nazis fleeing to Spain to hide after WWII."
+s21,2021,"In the late 1970s, an accused serial rapist claims multiple personalities control his behavior, setting off a legal odyssey that captivates America."
+s24,2021,"From arcade games to sled days and hiccup cures, Cory Carson’s curious little sister Chrissy speeds off on her own for fun and adventure all over town!"
+s26,2021,"Finding love can be hard for anyone. For young adults on the autism spectrum, exploring the unpredictable world of dating is even more complicated."
+s31,2021,"As big city life buzzes around them, lonely souls discover surprising sources of connection and companionship in three tales of love, loss and longing."
+s32,2021,Chicago Party Aunt Diane is an idolized troublemaker with a talent for avoiding adulthood — and a soft spot for her soul-searching nephew.
+s34,2021,"Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes."
+s36,2021,"When his son goes missing during a snowy hike in the mountains, a retired intelligence officer will stop at nothing — and risk everything — to find him."
+s37,2021,"Tired of the small-time grind, three Marseille cops get a chance to bust a major drug network. But lines blur when a key informant makes a big ask."
+s40,2021,"A brave, energetic little boy with superhuman powers leads his friends on exciting adventures to guard their fellow Dholakpur villagers from evil."
+s41,2021,Mighty teen Adam and his heroic squad of misfits discover the legendary power of Grayskull — and their destiny to defend Eternia from sinister Skeletor.
+s46,2021,"Robin Wiltshire's painful childhood was rescued by Westerns. Now he lives on the frontier of his dreams, training the horses he loves for the big screen."
+s50,2021,"A pair of high-powered, successful lawyers find themselves defending opposite interests of the justice system, causing a strain on their happy marriage."
+s56,2021,"Home bakers with a terrible track record take a crack at re-creating edible masterpieces for a $10,000 prize. It's part reality contest, part hot mess."
+s65,2021,Scary story fan Alex must tell a spine-tingling tale every night — or stay trapped with his new friend in a wicked witch's magical apartment forever.
+s66,2021,"In a place called Numberland, math adds up to tons of fun when a group of cheerful blocks work, play and sing together."
+s69,2021,"Through exclusive interviews and archival footage, this documentary traces an intimate portrait of seven-time Formula 1 champion Michael Schumacher."
+s71,2021,"On this reality show, singles from Latin America and Spain are challenged to give up sex. But here, abstinence comes with a silver lining: US$100,000."
+s72,2021,Join the StoryBots and the space travelers of the historic Inspiration4 mission as they search for answers to kids' questions about space.
+s73,2021,"Jovial comic Jack Whitehall invites his stuffy father, Michael, to travel with him through Southeast Asia in an attempt to strengthen their bond."
+s75,2021,"With an eye for every budget, three travelers visit vacation rentals around the globe and share their expert tips and tricks in this reality series."
+s76,2021,"After a plane crash leaves Bear with amnesia, he must make choices to save the missing pilot and survive in this high-stakes interactive adventure."
+s78,2021,Kid cop Little Singham loses all his superpowers while trying to stop the demon Kaal’s new evil plans! Can his inner strength help him defeat the enemy?
+s80,2021,A budding politician has devious plans to rise in the ranks — until an unexpected new presence begins to interfere with his every crooked move.
+s81,2021,"When his home is threatened by humans, a young dragon summons the courage to seek a mythical paradise where dragons can live in peace and fly free."
+s82,2021,"Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge."
+s83,2021,"Bored with being the Lord of Hell, the devil relocates to Los Angeles, where he opens a nightclub and forms a connection with a homicide detective."
+s84,2021,"On this competition show, a group of metal artists torch, cut and weld epic, badass creations from hardened steel. Only one will win a $50,000 prize."
+s86,2021,"As Ash battles his way through the World Coronation Series, Goh continues his quest to catch every Pokémon. Together, they're on a journey to adventure!"
+s87,2021,A hiking trip into the wild turns into a desperate bid for survival for five friends on the run from a mysterious shooter.
+s89,2021,"From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali's extraordinary bond cracks under the weight of distrust and shifting ideals."
+s92,2021,This documentary traces the capture of serial killer Guy Georges through the tireless work of two women: a police chief and a victim's mother.
+s93,2021,Passengers and crew aboard a hijacked overnight flight scramble to outrace the sun as a mysterious cosmic event wreaks havoc on the world below.
+s94,2021,"Elisabeth and John-John live in the same city, but they inhabit different worlds. Can a passionate first love break through class and cultural barriers?"
+s96,2021,"Status and strategy collide in this social experiment and competition show where online players flirt, befriend and catfish their way toward $100,000."
+s98,2021,A boy's superhero dreams come true when he finds five powerful cosmic stones. But saving the day is harder than he imagined — and he can't do it alone.
+s99,2021,"The Octonauts expand their exploration beyond the sea — and onto land! With new rides and new friends, they'll protect any habitats and animals at risk."
+s100,2021,"Four women — a chef, a single mom, an heiress and a job seeker — dig into love and work, with a generous side of midlife crises, in pre-pandemic LA."
+s102,2021,"Under pressure to continue a winning tradition in American tennis, Mardy Fish faced mental health challenges that changed his life on and off the court."
+s103,2021,"From training to launch to landing, this all-access docuseries rides along with the Inspiration4 crew on the first all-civilian orbital space mission."
+s107,2021,"The Ross siblings of Disney's hit series ""Jessie"" spend a summer full of fun and adventure at Maine's Camp Kikiwaka, where their parents first met."
+s109,2021,"On the shores of Cape Mercy, a skillful group of teen divers investigate a series of secrets and signs after one of their own mysteriously goes missing."
+s110,2021,Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan.
+s111,2021,"The filmmakers and actors behind ""Money Heist"" characters like Tokyo and the Professor talk about the emotional artistic process of filming the series."
+s112,2021,"Half shark, half dog with a big heart and a belly full of fish sticks! Together, Sharkdog and his human pal Max can take on any silly or messy adventure."
+s113,2021,"In the wake of the Sept. 11 attacks, a lawyer faces an emotional reckoning as he attempts to put a dollar value on the lives lost. Based on real events."
+s114,2021,Cassie lives to party... until she dies in a freak accident. Now this social butterfly needs to right her wrongs on Earth if she wants to earn her wings.
+s118,2021,This documentary stitches together never-before-seen interviews with the last living generation of people who participated in Hitler's Third Reich.
+s121,2021,"After a meteor crash, a group of zoo animals transforms into squishy, gooey and stretchy superheroes with special powers and soon takes on evildoers."
+s126,2021,"A gay superspy and his scrappy LGBTQ squad fight to prove themselves to the agency that underestimated them. Today, West Hollywood… tomorrow, the world!"
+s131,2021,"At a summer performing arts program in New York City, Barbie from Malibu meets Barbie from Brooklyn, and the two become fast friends."
+s133,2021,A group of superheroes sets out to rid the world of evil — only to realize they may not be standing on the side of justice. Based on a popular comic.
+s148,2021,"Dale Brisby uses social media savvy and rodeo skills to keep cowboy traditions alive — and now he's teaching the world how to cowboy right, ol' son."
+s182,2021,"This unflinching series documents the 9/11 terrorist attacks, from Al Qaeda's roots in the 1980s to America's response, both at home and abroad."
+s185,2021,"In this reality series, Marie Kondo brings her joyful tidying tactics to people struggling to balance work and home life — and shares her own world."
+s186,2021,"They were the bad boys of hockey — a team bought by a man with mob ties, run by his 17-year-old son, and with a rep for being as violent as they were good."
+s187,2021,"A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way."
+s188,2021,A tough guy with a knack for housework tackles household tasks with meticulous care in these comedic live-action vignettes.
+s191,2021,"Eight years after a young man is framed for murder, an up-and-coming lawyer re-opens the case, beginning a tricky mission to find the real culprit."
+s194,2021,A young private’s assignment to capture army deserters reveals the painful reality endured by each enlistee during his compulsory call of duty.
+s197,2021,"An influencer specializing in makeovers bets she can transform an unpopular classmate into prom king in this remake of the teen classic ""She's All That."""
+s198,2021,It's a whole new world for Arlo and his one-of-a kind pals when they set out to restore a run-down New York City neighborhood — and make it their own.
+s199,2021,"Alhaja Eniola Salami starts anew and sets her sights on a different position of power, fueled by revenge, regret and ruthlessness."
+s214,2021,Take a deep dive into the beautiful world of Japan's top male idol groups from number one producer Johnny's in this revealing docuseries.
+s215,2021,"A special forces operative traveling from London to Paris with his girlfriend takes action when armed, ruthless mercenaries seize control of their train."
+s219,2021,"In a Georgia town where football rules and winning is paramount, a high school team tackles romance, rivalries and real life while vying for a title."
+s220,2021,"Aboard the Edens Zero, a lonely boy with the ability to control gravity embarks on an adventure to meet the fabled space goddess known as Mother."
+s221,2021,"When the McKellan family moves from Seattle to small-town Georgia, life down South – and traditional grandparents – challenge their big-city ways."
+s222,2021,Bob Ross brought joy to millions as the world’s most famous art instructor. But a battle for his business empire cast a shadow over his happy trees.
+s223,2021,"When family man Nick Brewer is abducted in a crime with a sinister online twist, those closest to him race to uncover who is behind it and why."
+s224,2021,"Idolized medium João Teixeira de Faria rises to international fame before horrifying abuse is revealed by survivors, prosecutors and the press."
+s225,2021,"Amid project pitfalls and a pandemic, besties-turned-business partners bring their design magic to a rundown motel and revamp it into a go-to getaway."
+s226,2021,"After a tragic accident, an amnesiac teen tries to rebuild her life at a memory disorders center but becomes suspicious of her unconventional treatment."
+s227,2021,"She's back from the dead and has a newfound thirst for blood. Meanwhile, her family's funeral parlor desperately needs more business. Hmm, what if..."
+s231,2021,"In this documentary, a kayaker sets out to become the first man to paddle the four great rivers that flow from Tibet's sacred Mount Kailash."
+s232,2021,"Desperate to save his ailing mother, 11-year-old Gunner runs away from home on a quest to find a mythic figure rumored to have the power to cheat death."
+s234,2021,This documentary features some of rock's greatest drummers as they come together in an inspiring rhythmic journey about the power of human connection.
+s235,2021,Join adorable kitten Oggy and his cast of cat pals in a bright and colorful kitty world. They're always on the go for fun times and fantastic adventures!
+s236,2021,Caitlyn Jenner's unlikely path to Olympic glory was inspirational. But her more challenging road to embracing her true self proved even more meaningful.
+s237,2021,"Paranormal activity at a lush, abandoned property alarms a group eager to redevelop the site, but the eerie events may not be as unearthly as they think."
+s238,2021,"Paranormal activity at a lush, abandoned property alarms a group eager to redevelop the site, but the eerie events may not be as unearthly as they think."
+s239,2021,"Paranormal activity at a lush, abandoned property alarms a group eager to redevelop the site, but the eerie events may not be as unearthly as they think."
+s240,2021,"Paranormal activity at a lush, abandoned property alarms a group eager to redevelop the site, but the eerie events may not be as unearthly as they think."
+s241,2021,"Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past."
+s242,2021,"When a plane mysteriously lands years after takeoff, the people onboard return to a world that has moved on without them and face strange, new realities."
+s243,2021,"With satirical sketches, cheeky debates and blistering roasts, 16 of India’s wittiest entertainers compete in teams to be named the ultimate comedy champs."
+s244,2021,A separated couple live together for their child's sake in this satirical dramedy about what it means to be a good parent and spouse in today's world.
+s246,2021,"Refreshing and flavorful, naengmyeon is Korea's coolest summertime staple. A journey through its history begins, from how it's cooked to how it's loved."
+s247,2021,"When he meets a debt-ridden woman who's caring for her ailing father, a debt collector with a heart of gold sets out to win her love."
+s248,2021,"He lost the love of his life to a pharmaceutical company's greed. Now his daughter is without a mother, and he's without justice. For now."
+s249,2021,"At a major university, the first woman of color to become chair tries to meet the dizzying demands and high expectations of a failing English department."
+s250,2021,"With his parents and all 10 sisters in tow, Lincoln Loud heads to Scotland and learns that royalty runs in the family in this global musical journey!"
+s253,2021,The dark secrets of a seemingly peaceful island threaten to swallow up an orphaned student when he grows close to a mysterious new teacher.
+s255,2021,"Beep, beep – go, go! Buckle up for fun and adventure with adorable kid car Cory Carson as he explores the winding roads of Bumperton Hills."
+s256,2021,Serial killer Dennis Nilsen narrates his life and horrific crimes via a series of chilling audiotapes recorded from his jail cell.
+s262,2021,"Looking to shake things up, two best friends embark on a life-changing adventure abroad as exchange students. But can they stay out of trouble?"
+s263,2021,"Christy Martin broke boundaries and noses as she rose in the boxing world, but her public persona belied personal demons, abuse and a threat on her life."
+s271,2021,An American tourist goes on the run in Greece after a tragic accident plunges him into a political conspiracy that makes him a target for assassination.
+s272,2021,"A filmmaker heads to Hollywood in the early '90s to make her movie but tumbles down a hallucinatory rabbit hole of sex, magic, revenge — and kittens."
+s273,2021,A government agency recruits teen driver Tony Toretto and his thrill-seeking friends to infiltrate a criminal street racing circuit as undercover spies.
+s274,2021,"Ten years after losing two loved ones, a man is plunged into another dizzying mystery when his girlfriend vanishes. Based on a Harlan Coben novel."
+s275,2021,"They’re not friends, but when their husbands leave them for each other, proper Grace and eccentric Frankie begin to bond in this Emmy-nominated series."
+s276,2021,"After his running mate's murder, a controversial televangelist becomes Argentina's presidential candidate. But nothing about him is as holy as he seems."
+s277,2021,"A writer in creative and marital crises finds support from three friends, who are also discovering themselves. Based on the novels by Elísabet Benavent."
+s278,2021,The bullied outcasts at prestigious Al Rawabi School for Girls plot a series of risky takedowns to get back at their tormentors.
+s279,2021,"Through songs and puns, comedian Lokillo Florez hilariously reviews how Latin Americans have adjusted to a new world where no-hugging policies prevail."
+s280,2021,"In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon."
+s281,2021,Expert bakers elevate desserts with next-level ideas and epic execution. Now the battle is on to win over clients in need of very special sweets.
+s284,2021,"As a little girl, she escaped the Holocaust and lived among wolves. Or did she? An extraordinary story elicits sympathy — then draws scrutiny."
+s285,2021,"Determined to make the most of her final summer before college, Elle plans the ultimate bucket list as she navigates what comes next with Noah and Lee."
+s287,2021,"Cute cats, quirky crafts and colorful magic! Join kitty enthusiast Gabby and her sidekick Pandy Paws as they team up for a series of animated adventures."
+s288,2021,"A workaholic who lost interest in romance reunites with an old flame and gifted music composer, who's determined to restore her belief in love."
+s291,2021,"Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout and its lasting legacy."
+s292,2021,"Medium Yoh Asakura enters a battle tournament held every 500 years, competing with other shamans in a bid to become the all-powerful Shaman King."
+s294,2021,"In pursuit of both success and validation, a group of tech-savvy individuals juggle intimate encounters, first impressions and romantic opportunities."
+s296,2021,"After reuniting as middle-aged men, three kung-fu prodigies must set their differences aside and dust off their skills to avenge their beloved mentor."
+s297,2021,A man searching for the truth behind his wife's death becomes caught up in a dangerous web of secrets and intrigue stretching from New York to Tel Aviv.
+s298,2021,"From amusement to awe, the nine human emotions of Indian aesthetic theory are explored in this anthology series."
+s300,2021,"A single mother breeds locusts as high-protein food, but has trouble getting them to reproduce — until she finds they have a taste for blood."
+s301,2021,A music-loving kinkajou embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.
+s305,2021,"""Queen of Sleaze"" or feminist pioneer? Powerhouse novelist Jackie Collins created a brash sex-positive persona while hiding her private struggles."
+s308,2021,"Desperate to save their marriage, a young couple takes a deal and moves into their dream home, but disturbing events reveal the house's troubled history."
+s310,2021,"The colorful crew at Gotham Garage overhauls an eclectic collection of cars and trucks, trading up to a showstopper they can sell for big bucks."
+s311,2021,Two childhood friends go from high school dropouts to the most powerful drug kingpins in Miami in this true story of a crime saga that spanned decades.
+s312,2021,"When a hacker begins releasing students' secrets to the entire high school, the socially isolated but observant Sofía works to uncover his/her identity."
+s313,2021,"With an anyone-can-cook attitude, Paris Hilton adds her own flair to every dish. Fun is just one edible glitter bomb away on this unique cooking show."
+s318,2021,"Ex-leaders and a survivor of the so-called ""conversion therapy"" movement speak out about its harm to the LGBTQ+ community and its devastating persistence."
+s319,2021,"Max S. reveals how he built a drug empire from his childhood bedroom in this story that inspired the series ""How to Sell Drugs Online (Fast)."""
+s321,2021,"Though claims of extraterrestrial encounters have long been dismissed, many believe the existence of UFOs is not just likely, but a certainty."
+s340,2021,A workaholic reconnects with two men she blocked on social media five years ago and begins to reflect on her past life choices.
+s362,2021,"After their mother’s tragic death, a trio of sisters bond over their newfound powers, vanquish demons and band together to defend their magical legacy."
+s364,2021,A genius engineer and his crew of amateur thieves plot a scheme to seize a legendary lost treasure hidden in a fortress beneath the Bank of Spain.
+s365,2021,"On a quest to reunite with her trusty rider, a fearless war horse journeys through a whimsical world filled with magic, adventure and singing centaurs."
+s367,2021,"In this competition show, aspiring makeup artists navigate colorful challenges to win a career-making opportunity in the beauty industry."
+s370,2021,"In the automotive world, John DeLorean rose from engineer to executive to icon. But under the hood of his self-created legend lies darkness and deceit."
+s371,2021,"On an island of haves and have-nots, teen John B enlists his three best friends to hunt for a legendary treasure linked to his father's disappearance."
+s373,2021,"Before he was a protector, Kenshin was a fearsome assassin known as Battosai. But when he meets the gentle Tomoe Yukishiro, his story begins to change."
+s374,2021,A legendary secret agent-turned-mercenary comes out of hiding to save the son he's never met. Learning how to be a dad may be his toughest mission yet.
+s376,2021,"Reeling from a broken heart and career meltdown, a singer takes a gig at a swanky island resort — where her ex-fiancé happens to be getting married."
+s377,2021,The frantic race to locate the Allspark first culminates on a strange planet as the future comes crashing through to the present day.
+s378,2021,"After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub — and soon learns his sibling's death wasn’t an accident."
+s380,2021,"Bad tattoos walk in. Great tattoos walk out. Top artists transform tattoo disasters into stunning cover-ups, with designs chosen by clients' loved ones."
+s381,2021,A forensics expert who wakes from a coma with amazing new powers squares off against forces threatening the city in this live-action superhero romp.
+s382,2021,"Over four decades, two brothers in Cali juggle family duties, multiple romances and illegal businesses, transforming from poor kids to cocaine kingpins."
+s383,2021,Culture clashes and brewing rivalries test a teen football player from South Los Angeles when he’s recruited to the Beverly Hills High School team.
+s385,2021,"A realtor and her daughter get taken captive by two fugitive criminals during an open house, forcing her to find creative ways to ensure their survival."
+s386,2021,"To win back his ex-girlfriend, a nerdy teen starts selling ecstasy online out of his bedroom – and becomes one of Europe's biggest dealers."
+s387,2021,Catch a ride with the Mighty Express — a team of trains and their kid friends who overcome trouble on the tracks with quick thinking and teamwork!
+s388,2021,"An aspiring actress in a small town agrees to bear a child for a visiting couple seeking a surrogate mother, but her experience takes unexpected turns."
+s389,2021,Comedy collective The Plastic Cup Boyz pour out the punchlines in Atlanta during a trio of raw and lively stand-up specials.
+s394,2021,"Crushed when she doesn't qualify for the Olympics, a now-grown Maddy Cornell finds new purpose coaching young gymnasts going up against a rival team."
+s395,2021,A disgruntled South African woman leaves her fiancé and embezzles money from her job to pursue her dream of being a Broadway star in New York City.
+s396,2021,Two directionless millennial bros get high and pitch a bold new social justice app that raises millions. Then they have to come up with the app.
+s397,2021,"When a group of terrorists hijacks an overnight transatlantic flight, a mysteriously ill woman must unleash a monstrous secret to protect her young son."
+s398,2021,Short films follow young adults as they navigate the gamut of emotions that come with finding romantic connection in unexpected places.
+s399,2021,"Tragedy, betrayal and a mysterious discovery fuel a woman's vengeance for the loss of her tribe and family in this special episode of ""Kingdom."""
+s400,2021,"After a calamitous battle fractures Eternia, Teela and an unlikely alliance must prevent the end of the Universe in this sequel to the ’80s classic."
+s401,2021,Take a behind-the-scenes look at “Masters of the Universe: Revelation” as showrunner Kevin Smith and others interview the cast about their iconic roles.
+s402,2021,A fatal turn of events at a brothel sends three women haunted by their pasts on a wild run from their pimp and his henchmen.
+s403,2021,"After finding a trove of love letters from 1965, a reporter sets out to solve the mystery of a secret affair — while embarking on a romance of her own."
+s404,2021,"These blockbusters brought us together and gave us the time of our lives. Meet the actors, directors and industry insiders who made them happen."
+s405,2021,"In this documentary, female office workers in '70s Boston inspire change with a call for better pay, more opportunities and an end to sexual harassment."
+s427,2021,"Separated as children, three cousins with an unshakeable bond confront their painful pasts and embark on an emotional journey to find each other."
+s429,2021,"After meeting one bright, sunny day, a shy boy who expresses himself through haiku and a bubbly but self-conscious girl share a brief, magical summer."
+s431,2021,"Hoping to say goodbye to superficial dating, real-life singles sport elaborate makeup and prosthetics to put true blind-date chemistry to the test."
+s432,2021,"Sizzling hot young Brazilians meet at a dreamy beach resort. But for a shot at R$500,000 in this fun reality show, they'll have to give up sex."
+s433,2021,"Heroes from ""Trollhunters,"" ""3Below"" and ""Wizards"" join forces to fight a shadowy enemy threatening to take over their worlds — and reset Earth itself."
+s437,2021,"In an impoverished neighborhood, the son of a swordsman falls in love with the daughter of a wedding singer — a taboo match in a traditional society."
+s438,2021,"In the year 2524, a disgraced retired general is called back into combat to help prevent an interstellar war against a hostile alien fleet."
+s440,2021,Four insomniac med school students are lured into a neuroscience experiment that spirals out of control — and must find a way out before it’s too late.
+s441,2021,"This enlightening series from Vox digs into a wide range of topics such as the rise of cryptocurrency, why diets fail, and the wild world of K-pop."
+s442,2021,"Thrust back to 1666, Deena learns the truth about Sarah Fier. Back in 1994, the friends fight for their lives — and Shadyside’s future."
+s443,2021,"How much trouble could one imaginative boy, his faithful dog and two science-loving sisters possibly get into? Hmm, that sounds like a challenge!"
+s445,2021,This intimate series follows Naomi Osaka as she explores her cultural roots and navigates her multifaceted identity as a tennis champ and rising leader.
+s453,2021,"Sparks fly when a fashion blogger in Bali meets a gifted shoemaker, leading her to question her commitment to her fiancé."
+s454,2021,"In a world where beasts of all kinds coexist, a gentle wolf awakens to his own predatory urges as his school deals with a murder within its midst."
+s456,2021,"Brazilian rapper Emicida brings his progressive rhymes and eclectic beats to São Paulo's Theatro Municipal as he performs hits from the album ""AmarElo."""
+s458,2021,"With the guidance of her relentless coach, a teen weightlifter emerges from a scrappy training camp in Egypt to compete at the championship level."
+s459,2021,"Two unusually close friends share every aspect of their lives together. As their lives evolve, their bond remains the only constant."
+s460,2021,"After a traumatic year, all an Indian-American teen wants is to go from pariah to popular — but friends, family and feelings won’t make it easy on her."
+s464,2021,"In this gruesome suspense film, strangers traveling in southern Italy become stranded in the woods, where they must fight desperately to get out alive."
+s465,2021,"When an assassin veers off mission to rescue a child, she triggers a war with a powerful crime syndicate — and reunites a gun-wielding sisterhood."
+s466,2021,Millions in stolen cash. Missing luxury bourbon. Watch ordinary people almost get away with these extraordinary heists in this true crime series.
+s467,2021,"Follow Julia Haart, Elite World Group CEO and a former member of an ultra-Orthodox Jewish community, and her adult kids in this reality series."
+s468,2021,A deep dive into the work of renowned Mexican journalist Manuel Buendía looks to unravel his murder and the ties between politics and drug trafficking.
+s469,2021,"A couple in Québec deals with the pitfalls, pressure and high expectations of raising kids in a society obsessed with success and social media image."
+s471,2021,"""Bridgerton"" cast members share behind-the-scenes stories from the hit show, plus comedian Nikki Glaser breaks down the costume drama's sexiest moments."
+s472,2021,"With their family facing financial woes, two teen brothers seize an opportunity to reverse their bad fortunes by traveling 20 years back in time."
+s473,2021,Curious kid Ridley and her friends protect the Museum of Natural History’s treasures and keep its magical secret safe: Everything comes alive at night!
+s478,2021,"When a teen on the autism spectrum decides to get a girlfriend, his bid for more independence puts his whole family on a path of self-discovery."
+s479,2021,A medical student enters a top German university on a secret mission to uncover a conspiracy linking a family tragedy to a visionary biology professor.
+s480,2021,"In the cursed town of Shadyside, a killer's murder spree terrorizes Camp Nightwing and turns a summer of fun into a gruesome fight for survival."
+s482,2021,"In a world where humans and superheroes coexist, a lone wolf cop teams up with a bright detective to dismantle a dark plot to extract superpowers."
+s483,2021,"Ruling with an iron fist requires an aspiring dictator to know the playbook for absolute power, as history's despots prove in this sardonic docuseries."
+s484,2021,"During summer vacation in a beachside town, 16-year-old Deniz seeks the affection of his childhood crush and navigates a love triangle."
+s485,2021,"Lee Su-geun's rise to Korean comedy stardom went hand in hand with his mastery over picking up social cues. Now, he's ready to share his know-hows."
+s486,2021,"After a business owner starts receiving online threats, doubts and paranoia creep in when she reconnects with a former flame and meets a new client."
+s488,2021,"In 1720 Madrid, a talented cook catches the eye of a widowed duke just as he returns to aristocratic society. Based on the novel by Fernando J. Múñez."
+s489,2021,"Searching for a fresh start, a nurse practitioner moves from LA to a remote northern California town and is surprised by what – and who – she finds."
+s491,2021,"The crime shocked Brazil: Elize Matsunaga shot and dismembered her rich husband. Featuring her first interview, this docuseries dives deep into the case."
+s494,2021,"Years after the horrors of Raccoon City, Leon and Claire find themselves consumed by a dark conspiracy when a viral attack ravages the White House."
+s498,2021,"Cat people come in all shapes and sizes, but they share a love for their enchanting, unique feline friends. This docuseries reveals their tales."
+s500,2021,"These six intimate stories explore the abiding emotional bonds that form between dogs and their caregivers, no matter the circumstances."
+s501,2021,"When a masked vigilante’s killing spree throws a city into chaos, a renegade detective and his rookie partner are the only ones who can stop it."
+s504,2021,"In an early-'80s Polish town, a prostitute and a youth leader are found killed, but the police's handling of the case makes two journalists suspicious."
+s505,2021,"When two antagonistic families end up living next door in a posh neighborhood, the matriarchs ensue a full-scale war of unintended consequences."
+s507,2021,A workaholic lawyer returns to her island home to convince an old friend to take over his family’s company — but rekindled feelings soon get in the way.
+s517,2021,"A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn."
+s521,2021,There is no such thing as an ordinary interaction in this offbeat sketch comedy series that features a deep roster of guest stars.
+s522,2021,"While running a convenience store in Toronto, members of a Korean-Canadian family deal with customers, each other and the evolving world around them."
+s534,2021,"A Haredi family living in an ultra-Orthodox neighborhood of Jerusalem reckons with love, loss and the doldrums of daily life."
+s539,2021,"Romance, rivalry and radical mystery collide as a group of teens attend a remote island sleepaway camp in this suspenseful, supernatural drama."
+s545,2021,"Maternity leave is over and it's time for these four moms to return to work while navigating kids, bosses, love and life in modern-day Toronto."
+s547,2021,A hotel concierge and a psychiatrist with traumatic childhoods form a heartfelt bond when they become entangled in a perplexing local murder case.
+s548,2021,"Learn the basics of rights and citizenship with upbeat songs by popular artists like Janelle Monáe, H.E.R., Adam Lambert, Brandi Carlile and more."
+s551,2021,"After a series of brutal slayings, a teen and her friends take on an evil force that's plagued their notorious town for centuries. Welcome to Shadyside."
+s552,2021,"Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth."
+s557,2021,"With prayer beads in one hand and an ax in the other, a monk hunts down a millennia-old spirit that's possessing humans and unleashing hell on Earth."
+s561,2021,"Shaken by a friend's suicide, a Deaf high school football player copes with family and relationships while anticipating his final homecoming game."
+s571,2021,"Warlords, warriors and statesmen wage a battle for supremacy in this fantasy tale based on the hit video games and the ""Romance of the Three Kingdoms."""
+s572,2021,"A chance encounter leads two 30-somethings to remember 1998, the year their teenage hormones kicked in — and the internet changed their lives forever."
+s578,2021,"A humorous view on a changing Saudi, this season includes stories about a global media war, a long-standing tribal feud and a health craze gone too far."
+s581,2021,"After Char’s rebellion, Hathaway Noa leads an insurgency against Earth Federation, but meeting an enemy officer and a mysterious woman alters his fate."
+s618,2021,"Prince Wilhelm adjusts to life at his prestigious new boarding school, Hillerska, but following his heart proves more challenging than anticipated."
+s619,2021,A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.
+s624,2021,Close quarters and new romances add trouble to the rocky relationship between a high-strung young woman and her demanding mother.
+s625,2021,"On New Year’s Eve 1999, an armed man enters a TV studio during a broadcast, takes the host hostage and makes one demand: to give a message live on air."
+s626,2021,"The lives of the people of Allende, a Mexican border town, are overtaken by a powerful cartel's operations, leading to tragedy. Inspired by true events."
+s627,2021,A shocking murder in rural Ireland sets off an increasingly convoluted quest for justice that spans decades and cuts across national borders.
+s629,2021,"When colorful villains come out to play, 8-year-old Zoey has the power to transform into StarBeam, a kid-sized superhero. She saves the day, every day!"
+s632,2021,"When a kingdom is taken over by tyrants, the deposed princess begins a quest to find a disbanded group of evil knights to help take back her realm."
+s637,2021,"To save a team of miners trapped underground, a down-on-his-luck ice road trucker joins a mission across treacherous terrain to deliver rescue equipment."
+s638,2021,"From a satire to a psychological thriller, four short stories from celebrated auteur and writer Satyajit Ray are adapted for the screen in this series."
+s639,2021,A woman's daring sexual past collides with her married-with-kids present when the bad-boy ex she can't stop fantasizing about crashes back into her life.
+s640,2021,"Brought together by a mysterious song, a grad student and an engineer lead the fight against an unimaginable force that may spell doom for the world."
+s641,2021,"A talented street dancer from Umlazi, Durban must confront her fears and deal with family objections to pursue her dancing dreams."
+s642,2021,Three track star sisters face obstacles in life and in competition as they pursue Junior Olympic dreams in this extraordinary coming of age journey.
+s643,2021,"In 1980s Japan, one determined man turned every crushing setback into opportunity. His name was Toru Muranishi, and he revolutionized his industry."
+s644,2021,An inexperienced priest teams up with a hardened exorcist to stop the demonic possession of a young boy. But darkness lies where they least expect it.
+s645,2021,"After years of putting her career first, a stand-up comic meets a guy who seems perfect: smart, nice, successful... and possibly too good to be true."
+s646,2021,"In 1999, teen Rocío Wanninkhof is murdered. Her mother's ex-partner, Dolores Vázquez, is suspected. Did she do it? A second victim reveals the truth."
+s647,2021,The De La Mora siblings concoct a mischievous plan to break into their old family home to retrieve a hidden treasure of significant importance.
+s648,2021,This reality series follows the Kretz family and their luxury property business as they help clients buy and sell fabulous homes in France and abroad.
+s649,2021,"On the shores of paradise, gorgeous singles meet and mingle. But there’s a twist. To win a $100,000 grand prize, they’ll have to give up sex."
+s654,2021,"Uncover the real stories behind your favorite pop songs as this docuseries charts the impact of the festival scene, Auto-Tune, boy bands and more."
+s659,2021,The intoxicating charm of a flirtatious art school classmate pulls a reluctant love cynic into a friends-with-benefits relationship.
+s661,2021,School principal and retired superhero Jefferson Pierce leaps back into action as the legendary Black Lightning after a gang threatens his family.
+s683,2021,"Three best friends negotiate work, fun, identity politics, hookups and wild nights out in this razor-sharp satire of 20-something life in Melbourne."
+s684,2021,"Taken in by the yakuza at a young age, Kenji swears allegiance to his old-school boss, pledging to adhere to the family code amid ever-changing times."
+s685,2021,"When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder."
+s686,2021,"A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own. Inspired by a true story."
+s687,2021,"Every day is extraordinary for five doctors and their patients inside a hospital, where birth, death and everything in between coexist."
+s688,2021,"When a clever, carefree gangster is recruited to help an overseas crime lord take down a rival, he is caught off guard by the moral dilemmas that follow."
+s691,2021,"In 1879, Kenshin and his allies face their strongest enemy yet: his former brother-in-law Enishi Yukishiro and his minions, who've vowed their revenge."
+s692,2021,"New friends, new loves and new experiences mix together inside a colorful college dormitory in Korea that's home to students from around the world."
+s693,2021,"A career-driven 30-something must contend with a cutthroat workplace, a love triangle and her nagging mom."
+s694,2021,"After his father's passing, a teenager sets out for New York in search of his estranged mother and soon finds love and connection in unexpected places."
+s697,2021,"In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones."
+s698,2021,"Samuel attempts a big, romantic gesture at the airport in order to persuade Carla not to board her flight to London."
+s700,2021,The catastrophic eruption of subglacial volcano Katla turns a nearby community’s world upside down as mysteries begin to emerge from the ice.
+s701,2021,"Before eradicating humankind from the world, the gods give them one last chance to prove themselves worthy of survival. Let the Ragnarok battles begin."
+s704,2021,A painter in Istanbul embarks on a personal journey as she unearths universal secrets about an Anatolian archaeological site and its link to her past.
+s707,2021,"Now in remission, Ander is set on spending his summer helping Alexis, his chemo partner, go through treatment."
+s708,2021,A food-blogging insurance agent encounters a friend from elementary school with a vendetta against him — but soon becomes her sidekick.
+s711,2021,"In a picturesque South African town, an eclectic group of endangered penguins flock together to find mates, raise families and mix with the locals."
+s712,2021,"After the assault of a young woman in their seaside town, a security expert and his family get caught in a powerful riptide of secrets and lies."
+s715,2021,"As a killing resembling a cold case resurfaces in a small town, the chase for the truth falls on two policemen who each harbor secrets of their own."
+s716,2021,"Nadia feels conflicted about whether or not to see her long distance boyfriend, Guzmán, when she returns to Spain for her sister's wedding."
+s718,2021,"Do you want to relax, meditate or sleep deeply? Personalize the experience according to your mood or mindset with this Headspace interactive special."
+s720,2021,"With the prehistoric force of the dinosaurs, a new crew of Power Rangers must deal with a menacing army of alien creatures attacking Earth."
+s721,2021,Fun-loving friends Daisy and Cole use music and imagination to solve problems in a town filled with nursery rhyme characters.
+s725,2021,The diverse experiences and emotions of five young people with autism fuel this illuminating documentary based on Naoki Higashida's bestselling memoir.
+s726,2021,"Rebe hosts an intimate house warming party for her friends, but the situation takes a dramatic turn with the help of drugs and unexpected visitors."
+s729,2021,"When a team of researchers tries to find out what started a fire in a coal mine, they quickly discover that the disaster is anything but natural."
+s730,2021,"The stars of ""Bling Empire"" discuss the show's success and play bling-themed games, then comic Joel Kim Booster makes his case for joining the cast."
+s731,2021,"Ralph Macchio, William Zabka and more from the ""Cobra Kai"" cast drop by to chat Season 3 (spoilers ahead!), followed by Bill Burr of ""F Is for Family."""
+s732,2021,"Everything comes unraveling for three successful women who work on a radio show as twists, turns and troubles plague their seemingly happy marriages."
+s733,2021,"Cast members of the ""To All the Boys"" films dish about the third movie and answer some fan questions, plus Whitney Cummings gives suspect dating advice."
+s735,2021,"Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family."
+s736,2021,"When a city man returns to his native village for his brother’s wedding, several unforeseen snags make his visit more eventful than anticipated."
+s737,2021,"When a teen in rural India discovers a life-changing passion for skateboarding, she faces a rough road as she follows her dream to compete."
+s738,2021,"In Manila, where dark supernatural forces pervade the criminal underworld, it’s up to Alexandra Trese to keep the peace — but there’s a storm brewing."
+s739,2021,"Stars and creators gather to discuss “Trese,” from its Filipino folklore inspirations to the comic’s beginnings and its journey to an anime series."
+s740,2021,Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.
+s743,2021,Tensions rise and untold secrets surface for three royal sisters when a family treasure is stolen the night before an antique auction.
+s745,2021,Four of Colombia's funniest and bawdiest comedians perform before a post-quarantine audience hungry for their stories.
+s747,2021,"After a global event wipes out humanity's ability to sleep, a troubled ex-soldier fights to save her family as society and her mind spiral into chaos."
+s749,2021,"Passionate about food and ready for fun, critic Daym Drops drops in on America's smokin' hot spots for the best, freshest takes on fried food."
+s750,2021,"In this spinoff of the ""Bad Boys"" franchise, two police detectives team up while trying to keep their stormy pasts — and differences — from interfering."
+s751,2021,"To escape an arranged marriage, a woman flees into the depths of the Mayan jungle, where untamed nature merges the human and the supernatural."
+s756,2021,"Famous feline Abatutu presents this charming celebration of cats, showcasing their finest and friskiest moments with a collection of home videos."
+s758,2021,David Attenborough and scientist Johan Rockström examine Earth's biodiversity collapse and how this crisis can still be averted.
+s759,2021,"Stand-up comic Mae Martin navigates a passionate, messy new relationship with her girlfriend, George, while dealing with the challenges of sobriety."
+s762,2021,Cutting-edge science and captivating personal stories collide in this illuminating docuseries about the incredible workings of the human body.
+s763,2021,"Faced with real-world opportunities and challenges, a couple endures the highs and lows of trying to make a long-distance relationship survive."
+s764,2021,"On a perilous adventure across a post-apocalyptic world, a lovable boy who's half-human and half-deer searches for a new beginning with a gruff protector."
+s765,2021,"To rekindle their marriages, best friends-turned-in-laws Shanthi and Jennifer plan a couples' getaway. But it comes with all kinds of surprises."
+s766,2021,"In this fast-paced and action-packed thriller, a retired hitman — along with his sister and a troubled teen — takes revenge on his lethal stepbrother."
+s767,2021,"Mexican comedian Alan Saldaña is back, poking gentle fun at himself and parceling advice, especially about how to stay married and how to be parents."
+s768,2021,"Comedian Ryuji Akiyama satirizes top “creators” in Japan with a deadpan, unerring eye for humor, with help from some surprising celebrity guest stars."
+s769,2021,"A dancer who gets a job cleaning at a struggling drag club dreams of being in the show, and her talent catches an ambitious choreographer's eye."
+s771,2021,"From pregnancy to album preparations, Lebanese singer and “Queen of the Stage” Myriam Fares documents her experiences with her family while in lockdown."
+s772,2021,"When a dark power enshrouds the Earth after a total solar eclipse, the scattered Sailor Guardians must reunite to bring light back into the world."
+s773,2021,Two young adults from very different backgrounds fall in love during a summer on Italy’s Adriatic Coast. Inspired by Federico Moccia's book series.
+s782,2021,Follow scientists on their quest to understand and capture the first image of a black hole while exploring the limits of our knowledge of the universe.
+s784,2021,"After a breakup, an influencer takes her friends on a free trip to Bahia's vibrant Carnival, where she learns life's not just about social media likes."
+s786,2021,"Learn letters, numbers, animal sounds and more with J.J. in this edutaining series that brings fun times with nursery rhymes for the whole family!"
+s806,2021,A city kid is brought to the countryside by his father's new coaching gig: reviving a ragtag middle school badminton team on the brink of extinction.
+s812,2021,"From Goldilocks to Hansel and Gretel, the Super Monsters reimagine classic fairy tales and favorite nursery rhymes with a musical, magical spin!"
+s821,2021,"A programming genius builds a fact-finding, truth-seeking internet portal while reckoning with trouble at home."
+s827,2021,"A new comedy special shot and performed by Bo Burnham, alone, over the course of the past year."
+s828,2021,"A desperate man attempts to burglarize the home of a wealthy woman, but finds himself face-to-face with a crew of armed robbers who have the same idea."
+s830,2021,The privileged life of a pampered dog named Trouble is turned upside-down when he gets lost and must learn to survive on the big-city streets.
+s831,2021,Acting coach Sandy Kominsky and best friend Norman Newlander keep each other laughing as they navigate the ups and downs of getting older.
+s832,2021,"Pro cycling’s Movistar Team sets their sights on victory while on the road as they face challenges, controversy and internal conflict."
+s833,2021,"A disillusioned royal magistrate sets out for the martial arts world, where he encounters a bosom friend and becomes entangled in a conspiracy."
+s834,2021,A rogue detective with unorthodox means leads an investigation into a massacre committed by unicorn mask-wearing assassins at an Israeli high school.
+s835,2021,"To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition."
+s836,2021,"A human girl secretly raised by robots starts to uncover the dark secrets behind her lush, utopian world where humanity has all but vanished."
+s837,2021,"After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist."
+s838,2021,"In a Norwegian town poisoned by pollution and rattled by melting glaciers, the End Times feel all too real. It’ll take a legend to battle an old evil."
+s839,2021,"The delightful Argentine comic Agustín Aristarán (aka Soy Rada) is back, this time putting the spotlight on family and parenting, magic and music."
+s841,2021,"The story of Roberto Baggio, one of the best soccer players of all time, including his career highs, triumphs over injuries and discovery of Buddhism."
+s842,2021,Romance unexpectedly blossoms when a freelance photographer arrives late to her assignment at a full moon celebration thrown for a mob boss's newborn.
+s843,2021,"Black food is American food. Chef and writer Stephen Satterfield traces the delicious, moving throughlines from Africa to Texas in this docuseries."
+s845,2021,"This documentary examines the 1999 London bombings that targeted Black, Bangladeshi and gay communities, and the race to find the far-right perpetrator."
+s848,2021,"Bothered to realize they are next-door neighbors and share a psychiatrist, a man and a woman find it's impossible to stay out of each other's way."
+s849,2021,Dev tries to jump-start his acting career and elevate his dating game with help from his eclectic group of friends in this award-winning series.
+s851,2021,"Challenged to compose 100 songs before he can marry the girl he loves, a tortured but passionate singer-songwriter embarks on a poignant musical journey."
+s852,2021,"Challenged to compose 100 songs before he can marry the girl he loves, a tortured but passionate singer-songwriter embarks on a poignant musical journey."
+s853,2021,"Challenged to compose 100 songs before he can marry the girl he loves, a tortured but passionate singer-songwriter embarks on a poignant musical journey."
+s854,2021,"After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever."
+s855,2021,"Zack Snyder and his ""Army of the Dead"" team dive into the film's wild stunts, groundbreaking effects and the evolution of the zombie genre."
+s856,2021,Six teens invited to attend a state-of-the-art adventure camp on Isla Nublar must band together to survive when the dinosaurs break out of captivity.
+s858,2021,Self-centered Javier's life gets a bit messy when he unexpectedly becomes a superhero – and his recent ex is tasked with uncovering his identity.
+s862,2021,"Little Singham and his crew travel to the year 2050 to rescue kids from the evil rule of Junglee Joker, who has forbidden them from laughter or play!"
+s863,2021,A young gay man with cerebral palsy branches out from his insular existence in hopes of finally going after the life he wants.
+s870,2021,"Hell-bent on exacting revenge and proving he was framed for his sister's murder, Álex sets out to unearth much more than the crime's real culprit."
+s871,2021,"From her painful past to her successful career after ""The Joy Luck Club,"" groundbreaking writer Amy Tan shares her life story in this documentary."
+s872,2021,"A devoted grandson’s mission to reunite his ailing grandmother with her ancestral home turns into a complicated, comic cross-border affair."
+s874,2021,"Jilted by his wife, a man with OCD finds eye-opening common ground and camaraderie with his neighbor, a young man with Down Syndrome."
+s875,2021,"Curious Booba is now a chef! With friends Loola and Spike, he creates tasty treats with delightful designs using fruits, vegetables and other food."
+s877,2021,"Alumni of India’s elite academic institutes share the harsh realities, pleasant surprises and transformative journeys of their college experiences."
+s878,2021,A struggling rickshaw driver’s life takes a rollicking turn when he comes upon an expensive camera and decides to make a film with his fellow villagers.
+s879,2021,"Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life."
+s880,2021,His name built an empire. His style defined an era. American fashion designer Halston skyrockets to fame before his life starts to spin out of control.
+s881,2021,"Real people sit down with friends and family to share terrifying true stories from their past, re-created through chilling re-enactments."
+s882,2021,A relentless detective finds common ground with a killer systematically targeting the perpetrators running a powerful child-trafficking ring.
+s883,2021,"When a lost and lonely alien crash-lands on Earth, his new crew of talking animal friends helps him get back home — and try to save the world!"
+s884,2021,"Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher."
+s885,2021,"Finding life in all that’s left behind, a detail-oriented trauma cleaner and his estranged uncle deliver untold stories of the departed to loved ones."
+s889,2021,"The comedic dream team from ""The Upshaws"" discuss the hit series, share some anecdotes from their own upbringings and play a little swag-centric game."
+s890,2021,"Confined to her home by agoraphobia, a psychologist becomes obsessed with her new neighbors — and solving a brutal crime she witnesses from her window."
+s891,2021,A vampire hunter fights to save a besieged city from an army of otherworldly beasts controlled by Dracula himself. Inspired by the classic video games.
+s895,2021,A gay congressman marries the Mexican president's daughter but cavorts with a young man at a secret club. And then scandal hits. Based on a true story.
+s896,2021,"After waking up in a cryogenic unit, Liz fights to survive and remember who she is before her oxygen runs out."
+s897,2021,A working-class Black family in Indiana strives for a better life and a happy home while juggling everyday struggles in this comedy series.
+s898,2021,"When the germophobic owner of a cleaning company encounters a slovenly employee, a romance blossoms as they help one another heal from their pasts."
+s901,2021,"We spend it, borrow it and save it. Now let's talk about money and its many minefields, from credit cards to casinos, scammers to student loans."
+s903,2021,"Encaged in a gold-clad life of secrets and lies, two women in a conglomerate family seek to topple all that stands in their way of finding true joy."
+s904,2021,Three police officers become pawns for unscrupulous lawmakers when they are framed in an incident amid political elections and must flee to evade arrest.
+s906,2021,A struggling screenwriter discovers his lucrative ability to bring antiques from his dreams into the real world — but his new life soon unravels.
+s909,2021,"They're the first generation of superheroes. But as they pass the torch to their children, tensions are rising — and the old rules no longer apply."
+s910,2021,"Recently marking 500,000 kilometers on the road, a newly bereaved trucker faces the threat of losing the job that has come to define him to a new intern."
+s911,2021,A talented teen implicated in a robbery-turned-murder fights for his innocence and integrity against a criminal justice system that’s already judged him.
+s913,2021,"Stars of ""The Circle"" drop by to discuss Season 2's big winner, some juicy behind-the-scenes gossip and their enduring friendships with one another."
+s919,2021,Actor Jaaved Jaafferi brings his signature humor to this Hindi dubbing of the show where teams creatively navigate rooms flooded with make-believe lava.
+s920,2021,"The Son of Sam case grew into a lifelong obsession for journalist Maury Terry, who became convinced that the murders were linked to a satanic cult."
+s924,2021,"Six-year old Hank and his best pal, a giant trash truck, explore the world around them on fantastical adventures with their animal friends."
+s958,2021,Follow talent management company Pets on Q as they work with the biggest animal influencers on social media in this reality series.
+s960,2021,"Self-doubt, sacrifice and struggle converge into an existential crisis for a devoted classical vocalist as the mastery he strives for remains elusive."
+s961,2021,"An accidental killing leads a man down a dark hole of intrigue and murder. Just as he finds love and freedom, one phone call brings back the nightmare."
+s962,2021,A robot apocalypse put the brakes on their cross-country road trip. Now it’s up to the Mitchells — the world’s weirdest family — to save the human race.
+s964,2021,An inept magician pulls off the trick of his life: accidentally disappearing a wanted criminal during a police raid. Now he's going to pay for that.
+s965,2021,A young woman discovers that both her husband and their new home harbor sinister secrets after they leave Manhattan for small-town life.
+s966,2021,A peaceful boatman once known as the Black Samurai is pulled back into conflict when he takes a little girl with mysterious powers under his wing.
+s967,2021,"After a botched scam, Clóvis bumps into Lohane, his estranged foster sister. In a bind, they soon realize the only way out is to band together."
+s968,2021,"Learn how to sleep better with Headspace. Each episode unpacks misconceptions, offers friendly tips and concludes with a guided wind-down."
+s969,2021,"To build an innovative sex app and win a tech competition, a sexually inexperienced student and her friends must explore the daunting world of intimacy."
+s973,2021,"Reeling from tragedy, a nondescript house cleaner embarks on a murderous streak as she searches for her missing husband and reckons with old wounds."
+s976,2021,"Stars of Netflix's ""Shadow and Bone"" discuss the show's epic combat scenes, answer some fan questions and play an ""Army vs. Crows"" trivia game."
+s984,2021,"An exploration of the rise of Héroes del Silencio, the seminal 1980s Spanish rock band. Anchored by Enrique Bunbury, they focused on a harder sound."
+s989,2021,"A med student with a supernatural gift tries to cash in on his abilities by facing off against ghosts, till a wandering spirit brings romance instead."
+s994,2021,Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.
+s997,2021,Truth and illusion blurs when a homeless amnesiac awakens from an experimental medical procedure with the ability to see people's innermost traumas.
+s998,2021,"Using innovative technology, this docuseries explores nature from a fresh perspective as animals use color to survive and thrive in the wild."
+s999,2021,Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune’s spokesperson returns to India after decades for an interview tour.
+s1000,2021,A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.
+s1003,2021,Workaholic Will puts his humdrum life in LA on hold to fulfill his grandpa's last wish: visiting Mexico City's most iconic sights and falling in love.
+s1004,2021,"A shy teen with the power to turn invisible must get it under control to help defend his neighborhood, putting aside the pursuit of his artistic dream."
+s1005,2021,Young koala caretaker Izzy Bee and her family rescue cuddly creatures in need and help them head back into the wild on Australia’s Magnetic Island.
+s1013,2021,"This series dramatizes the life story of Mexican superstar singer Luis Miguel, who has captivated audiences in Latin America and beyond for decades."
+s1024,2021,Four shorts explore the surprising ways in which unexpected catalysts inflame the uncomfortable emotions simmering under fractured relationships.
+s1025,2021,"To find the father he never knew, optimistic Arlo leaves his swampy Southern home for New York City, making friends along the way. A musical adventure."
+s1026,2021,"The Awesome Brawlers band together to fight off a powerful enemy determined to break the bond between Earth and Vestroia, the Bakugan's home planet."
+s1027,2021,"When Barbie’s sister Chelsea thinks her birthday has been skipped, she hunts for a magic gem on a jungle island that will grant her wish to get it back."
+s1029,2021,"Jamie Foxx, David Alan Grier and more from the cast of the family comedy discuss the show, humiliating family moments, bad BBQ dishes and sitcom openings."
+s1033,2021,"From the quirky to the scandalous, any relationship is fair game for a panel of love experts who comb over text messages and revel in reenactments."
+s1038,2021,"To avoid the burden of commitment, a young lawyer and a writer agree to be romantic partners only two days a week. That won’t get complicated — right?"
+s1045,2021,"High schooler Yuri finds herself atop a skyscraper in a strange world, where she must survive against masked assailants bent on killing their prey."
+s1051,2021,"Rei helps the woman she’s been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire."
+s1058,2021,A single dad and cosmetics brand owner figures out fatherhood on the fly when his strong-minded teen daughter moves in with him.
+s1059,2021,"Determined to master their enchanting powers, a group of teens navigate rivalry, romance and supernatural studies at Alfea, a magical boarding school."
+s1063,2021,"When a grim incident occurs at their prestigious school, justice through law is put to a test by a tough law professor and his ambitious students."
+s1067,2021,"While investigating the death of a businessman, a prosecutor and his wife uncover occult secrets as they face their own life-and-death dilemma."
+s1071,2021,The line between justice and revenge blurs when a devastated family uses social media to track down the people who killed 24-year-old Crystal Theobald.
+s1076,2021,Six longtime couples in different parts of the world share their decades-long love in these tender portraits filmed over the course of one year.
+s1081,2021,"While living as an ordinary deliveryman and motor racing fan, Nezha encounters old nemeses and must rediscover his powers to protect his loved ones."
+s1083,2021,"Is marriage just better between funny people? Revealing their day-to-day lives, celebrity comedian couples explore the bonds that keep them together."
+s1086,2021,"Hiding out in Jeju Island following a brutal tragedy, a wronged mobster with a target on his back connects with a woman who has her own demons."
+s1088,2021,"Hired to kidnap a bride, two bumbling pals face a wacky predicament when one falls for their abductee — and the other, for the spirit possessing her."
+s1089,2021,Two childhood best friends reunite as an unlikely crime-fighting superhero duo when one invents a formula that gives ordinary people superpowers.
+s1090,2021,"In this Oscar-nominated short film, a man trying to go home to his dog gets stuck in a time loop that forces him to relive a deadly run-in with a cop."
+s1092,2021,"After disappearing from the underworld, the legendary yakuza Tatsu, ""the Immortal Dragon,"" resurfaces — as a fiercely devoted stay-at-home husband."
+s1093,2021,"In a star-studded evening of music and memories, a community of iconic performers honor Dolly Parton as the MusiCares Person of the Year."
+s1094,2021,"For six engaged couples, happily ever after begins on a spectacular note in this eye-popping look at India’s multibillion-dollar wedding industry."
+s1095,2021,Former bride and forever comedian Jamie Lee shares her irreverent yet practical tips and tricks for wedding planning with struggling lovebirds.
+s1096,2021,"In 1990, two men dressed as cops con their way into a Boston museum and steal a fortune in art. Take a deep dive into this daring and notorious crime."
+s1097,2021,"Help Jack and his monster-battling friends make choices to stay alive — and have some fun — in this interactive ""Last Kids on Earth"" adventure!"
+s1099,2021,"Amid a local election with two rivals vying to win by any means necessary, a barber lands in a curiously powerful position as the single deciding vote."
+s1106,2021,"Sent to live with his estranged father for the summer, a rebellious teen finds kinship in a tight-knit Philadelphia community of Black cowboys."
+s1109,2021,"When a car breakdown forces a couple to seek shelter in a nearby home, conversations with the stranger inside soon suggest there’s a killer among them."
+s1110,2021,Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel — just as her self-absorbed sister gets engaged.
+s1111,2021,"In 1960s Paris, Madame Claude's influence extends beyond the world of sex work — until an affluent young woman threatens to change everything."
+s1124,2021,"From Argentina to Colombia, this stunning documentary follows five characters who share their deep connection to South America's majestic mountains."
+s1128,2021,Monstrous frights meet hilarious reveals on this hidden-camera prank show as real people become the stars of their own full-blown horror movie.
+s1137,2021,"After growing up in a tumultuous household, Yura finds herself in a love triangle with two close friends as she faces a personal and financial crisis."
+s1144,2021,"In this funny, heartfelt and moving docuseries, real people unpack the fascinating and quirky stories around their most meaningful pieces of clothing."
+s1147,2021,"Real people's terrifying tales of the chilling, unexplained and paranormal come to life with dramatic reenactments in this reality series."
+s1151,2021,"The true story of former college football player Chris Norton, who defied the odds after a devastating accident — with the woman he loves by his side."
+s1152,2021,"When red-hot volcanoes start a chain reaction of disasters across the ocean, the Octonauts must work together to face their biggest challenge yet."
+s1156,2021,"This documentary explores Nigeria’s cultural practice of marking, including its origins and meaning as a symbol of identity, beauty and spirituality."
+s1157,2021,"In this uplifting musical, a troubled teen takes a leap of faith by attending summer camp — and unexpectedly finds love, friends and a place to belong."
+s1158,2021,"In this hidden-camera prank comedy, two best friends bond on a wild road trip to New York as they pull real people into their raunchy, raucous antics."
+s1164,2021,"In this Spanish adaptation of ""Magic for Humans,"" folks of all ages on the streets of Barcelona are amazed by tricks that inspire delight and wonder."
+s1166,2021,"Widowed soon after marriage, a young woman grapples with an inability to grieve, quirky relatives and a startling discovery about her late husband."
+s1167,2021,"A crew of misfits investigates a series of supernatural crimes in Victorian London for Dr. Watson and his shadowy associate, Sherlock Holmes."
+s1168,2021,"After falling in love at a sailing summer camp in Sicily, reality comes crashing down on a teenage couple when a harsh truth prompts a pivotal decision."
+s1169,2021,A conflicted yet courageous Dragon Knight must use the power of the dragon within to stop a deadly demon in this epic fantasy based on the online game.
+s1170,2021,They’re guinea pigs! And they’re cars! The fuzzy and adorable molcars have lots of fun adventures in this delightful stop-motion animation.
+s1171,2021,"Hansel and Gretel of fairy tale fame — now acting as secret agents — must use magic, clever thinking and teamwork on a mission to find a missing king."
+s1172,2021,"Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers alarming global corruption."
+s1173,2021,"South African comedian Loyiso Gola serves up filter-free humor as he riffs about race, identity, politics, and a school prank gone embarrassingly wrong!"
+s1174,2021,"Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick."
+s1175,2021,A 70-year-old with a dream and a 23-year-old with a gift lift each other out of harsh realities and rise to the challenge of becoming ballerinos.
+s1181,2021,"Alien reporters Ixbee, Pixbee and Squee travel to a lovely but odd planet called Earth, where they attempt to make sense of humans and their hobbies."
+s1182,2021,"After hitting the skids in her career, an aspiring country singer finds new life as a nanny for a handsome widower and his five charming children."
+s1183,2021,"Drivers, managers and team owners live life in the fast lane – both on and off the track – during one cutthroat season of Formula 1 racing."
+s1185,2021,"A feud erupts between realms, and Yin Yang master Qing Ming teams up with disgraced guard Yuan Boya to vanquish a demonic threat as a conspiracy looms."
+s1187,2021,"Genius investigator Keith Flick rejoins the royal police force just as serial killer ""B"" emerges. Mysterious youth Koku may be an ally, or a target."
+s1188,2021,"After a bestselling novelist suffering from writer's block hires a new nanny for her children, the line between fiction and reality starts to blur."
+s1189,2021,"Two hapless cops find themselves in over their heads as they cross paths with dangerous criminals while searching for Celestina, a beloved goat mascot."
+s1190,2021,"Nate Bargatze touches on Zoom comedy shows, losing his phone, hotel breakfast fails, animal caddies, new math and much more in this special."
+s1196,2021,Reenactments drive this documentary investigating the mastermind behind a scam to get the kids of rich and famous families into top US universities.
+s1197,2021,"This docuseries follows the high-profile case of Belgian politician Bernard Wesphael, who was accused of murdering his wife in 2013."
+s1199,2021,"The comics of RebellComedy take the stage and tackle mistaken identities, geriatric influencers, our flawed perceptions of animals and more."
+s1201,2021,Curious puppet pals Waffles and Mochi travel the world exploring the wonders of food and culture while learning how to cook with fresh ingredients.
+s1202,2021,"Falsely incriminated, Abla Fahita is separated from her kids, but the self-indulgent diva will stop at nothing to redeem herself and reunite her family."
+s1203,2021,"Cutting across conventions and expectations, four brave love stories blossom in this Tamil remake of the 2018 Telugu film ""Care of Kancharapalem.”"
+s1206,2021,The real-life pirates of the Caribbean violently plunder the world's riches and form a surprisingly egalitarian republic in this documentary series.
+s1207,2021,"Talented teen figure skater Kayla is forced to leave everything behind when her family follows her twin brother, Mac, to a prestigious hockey academy."
+s1211,2021,"In a world where an app alerts people if someone in the vicinity likes them, Kim Jojo experiences young love while coping with personal adversities."
+s1213,2021,"In the streets of Istanbul, ailing waste warehouse worker Mehmet takes a small boy under his wing and must soon confront his own traumatic childhood."
+s1214,2021,"An eager young rookie joins the ragtag small-town police force led by his dad as they bumble, squabble and snort their way through a big drug case."
+s1218,2021,"Love — and lies — spiral when a DNA researcher helps discover a way to find the perfect partner, and creates a bold new matchmaking service."
+s1219,2021,A mom and dad who usually say no decide to say yes to their kids' wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.
+s1221,2021,"Basque Country, 1609. To postpone their execution, a group of women accused of witchcraft lure their inquisitor into witnessing the witches' Sabbath."
+s1224,2021,Tensions erupt when two filmmakers infiltrate an area ruled by gangs to shoot a music video for a rapper in this gritty found-footage series.
+s1225,2021,“Last Chance U” hits the hardwood in East Los Angeles as a coach with strong convictions leads young men who hope to fulfill major college potential.
+s1226,2021,A wedding planner and a real estate agent compete to win the hearts and budgets of spouses-to-be. Will they pick fairy-tale nuptials or a dream home?
+s1227,2021,"With plenty of passion and little know-how, two musicians undertake a daunting project: turn a late singer's houseboat into a creative musical space."
+s1228,2021,"From boardrooms to society's margins, five ambitious women from various walks of life navigate dreams, desires and disappointments in modern Mumbai."
+s1229,2021,"Amidst the bustle of a magnetic and multifaceted city, the budding love between two dreamers is tested."
+s1231,2021,"A son stoically returns to his village upon his father’s death, recalling their chilly dynamic before a bizarre event disrupts his visit."
+s1232,2021,"Meet the Ghost Club! Their adventures take them all around Los Angeles as they interview ghosts, solve problems and learn about their city's history."
+s1233,2021,"When a narco past his prime refuses to pay a debt to an upstart, only a secret stash of money can save his men. But guess what the gardener just found?"
+s1235,2021,"Nevenka Fernández, the plaintiff in Spain's first successful lawsuit against a politician for sexual harassment, breaks her silence after 20 years."
+s1236,2021,"Young trainer Ash and his new friend Goh become research fellows at Professor Cerise's laboratory, traveling all over the world to learn about Pokémon."
+s1237,2021,"Transferred home after a traumatizing combat mission, a highly trained French soldier uses her lethal skills to hunt down the man who hurt her sister."
+s1239,2021,"After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies."
+s1242,2021,"Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school."
+s1243,2021,High-stakes exploits turn deadly — and shake a global church to its core — in this extraordinary true crime story.
+s1246,2021,"Meet Bailey, Franny, Kip and Lulu. They're adorable baby animals, and they want you to join the party and help them learn!"
+s1249,2021,"Featuring rare footage and in-depth interviews, this documentary celebrates the life of The Notorious B.I.G. on his journey from hustler to rap king."
+s1250,2021,"With self-deprecating humor, French comic Blanche Gardin offers stream-of-consciousness observations on environmentalism, gender relations and herself."
+s1251,2021,"Argentine DJ Hernán Cattáneo, known for his house music innovations, invites a symphonic orchestra for a four-night run at Buenos Aires' Teatro Colón."
+s1259,2021,"Bigfoot’s now a big deal. So when he goes missing, his shy but tech-savvy teen son must take on an evil CEO to save his family and a wildlife preserve."
+s1261,2021,"After spending a wild night together, Adri discovers the only way to see Carla again is to become a patient at the psychiatric center where she resides."
+s1263,2021,"Cast members of the hit Netflix show join the hosts to unpack the drama of Season 1, and Cristela Alonzo offers tips for being the new kid at school."
+s1266,2021,A troubled divorcée fixates on a seemingly ideal couple from afar until a shocking observation sends her spiraling straight into a knotty murder case.
+s1270,2021,"After falling for Geez, a heartthrob at school, Ann must confront family opposition, heartache and deception as their romance struggles."
+s1273,2021,Dynamic reenactments and expert commentaries bring to life the tumultuous history and power struggles of a warring 16th-century feudal Japan.
+s1275,2021,"No dog, no breed, no behavior is unfixable for Cali K9's Jas Leverette. Follow the Oakland dog trainer as he works with a range of canines and owners."
+s1276,2021,"Free-spirited Georgia and her two kids, Ginny and Austin, move north in search of a fresh start but find that the road to new beginnings can be bumpy."
+s1278,2021,This anthology series of terror features diverse characters facing primal fears in spine-chilling situations that stretch past daily routine.
+s1279,2021,"Brian Regan tackles the big issues weighing on him, including aging, time, obsessive behavior, backpacks on airplanes, ungrateful horses and raisins."
+s1281,2021,"Against the backdrop of a turbulent era in Brazil, this documentary captures Pelé’s extraordinary path from breakthrough talent to national hero."
+s1282,2021,"A murder investigation leads police to a photo of a suspect, but when two men are found with faces that match the picture, the case gets doubly tricky."
+s1286,2021,"During a visit to his motherland, a Korean-Italian mafia lawyer gives an unrivaled conglomerate a taste of its own medicine with a side of justice."
+s1288,2021,"Stars of the fiery hit discuss the show's magic, play trivia and chow down on hot wings. Then, Taylor Tomlinson shares how she would use fairy powers."
+s1291,2021,A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.
+s1294,2021,"From secrets and lies to jealousy and control, four stories in this anthology film explore the darker, deceptive sides of love."
+s1295,2021,"In post-apocalyptic Europe, amid wars among microstates, three siblings fight for survival as a greater threat looms over the continent."
+s1297,2021,"Miserable and unsuccessful, a woman thinks she's lost all her spark — until one day, her spunky younger self appears in front of her demanding change."
+s1299,2021,An unfathomable incident introduces a genius engineer to dangerous secrets of the world — and to a woman from the future who's come looking for him.
+s1300,2021,"A popular manga creator becomes enmeshed in paranormal events while conducting research: Stand User Kishibe Rohan visits Italy, goes bankrupt and more."
+s1301,2021,"Will Smith hosts this look at the evolving, often lethal, fight for equal rights in America through the lens of the US Constitution's 14th Amendment."
+s1302,2021,A single mother enters a world of twisted mind games when she begins an affair with her psychiatrist boss while secretly befriending his mysterious wife.
+s1303,2021,Steven Rinella scrounges in some of America's wildest terrains in this unscripted series showing him on the hunt for wild animals from ducks to deer.
+s1305,2021,"When wild animals escape from a sanctuary, Bear Grylls — and you — must pursue them and secure their protective habitat. An interactive special."
+s1309,2021,"The world is a mystery to little Booba. But he approaches the curiosities around him with wonder, finding adventure in his everyday surroundings."
+s1311,2021,Life in the garage swerves off track for a NASCAR crew chief and his tight-knit racing team when a new boss steps in and shakes things up.
+s1312,2021,An interracial romance hits humorous and heart-wrenching hiccups as the couple's parents fight tooth and nail against their relationship.
+s1314,2021,"In this reality series, the bickering but big-hearted Bernards manage their budget-friendly funeral home while helping grieving families say farewell."
+s1316,2021,"From his hometown of Málaga, Dani Rovira reflects on human beings’ nonsensical hatred in this hilarious and unfiltered comedy special."
+s1318,2021,"Delightful cakes and heavenly breads pop from the oven as Nadiya Hussain returns to baking, her happy place, and spotlights creative kindred spirits."
+s1319,2021,Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans — with and without Peter.
+s1320,2021,"A girl, a dog and her best pal set out to save a mountain from a gold-hungry corporation. But the key lies closer to home, with her sidekick pup, Xico."
+s1326,2021,"Trying to rekindle their marriage and with a child on the way, a young couple on a ski trip suddenly finds themselves stalked by remorseless killers."
+s1327,2021,A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.
+s1329,2021,"The notorious Cecil Hotel grows in infamy when guest Elisa Lam vanishes. From the creator of ""The Ted Bundy Tapes,"" a dive into crime's darkest places."
+s1330,2021,"In Paris, two dysfunctional dealers use family ties to try to boost their small drug business in this crass comedy based on the webseries."
+s1339,2021,"As Helena gains the love and trust of a dangerous heroin cartel leader in 1960s Barcelona, she hones the skills she needs to rise up the ranks."
+s1340,2021,"After a family tragedy, a man discovers mythical creatures living among humans — and soon realizes they hold the key to his mysterious past."
+s1342,2021,"As a filmmaker and his girlfriend return home from his movie premiere, smoldering tensions and painful revelations push them toward a romantic reckoning."
+s1343,2021,"Chasing after space debris and faraway dreams in year 2092, four misfits unearth explosive secrets during the attempted trade of a wide-eyed humanoid."
+s1344,2021,"In an effort to reclaim their bodies and lives, a group of women explore the intersections of movement and meaning in a powerful pole dancing program."
+s1346,2021,"When a demonic serpent reawakens, the Yin-Yang Masters must solve a murder mystery and protect their realms from a dark conspiracy at the royal court."
+s1349,2021,Best friends Tully and Kate support each other through good times and bad with an unbreakable bond that carries them from their teens to their 40s.
+s1353,2021,"Hand-picked by Tiffany Haddish, six diverse comedians showcase their raw humor in a series of specials oozing with energy."
+s1369,2021,"When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures."
+s1370,2021,"In Oʻahu for the summer, two siblings from Brooklyn connect with their Hawaiian heritage — and their family — on a daring quest for long-lost treasure."
+s1371,2021,"On the eve of World War II, a British widow hires a self-taught archaeologist to dig up mysterious formations on her land, leading to a staggering find."
+s1372,2021,A Brooklyn youth football program and its selfless coaches provide a safe haven for kids to compete and learn lessons that will take them far in life.
+s1373,2021,"A street dog is taken in by a young couple, and the family pit becomes an instant accomplice as she adjusts to her new, loving home."
+s1374,2021,"Seeking to uncover the truth about his past, a henchman betrays someone close to him and assumes a new identity in a small Istanbul neighborhood."
+s1375,2021,Traverse the globe with the world's top riders as they pedal through rugged terrain and majestic locations in this visual homage to the bicycle.
+s1376,2021,A New York City grad student moonlighting as a dominatrix enlists her gay BFF from high school to be her assistant.
+s1379,2021,"As a mom copes with the aftermath of a harrowing accident, she finds inspiration from an injured magpie taken in by her family. Based on a true story."
+s1381,2021,"Handy and inventive pup Tag chases adventure with her best pal, Scooch, solving problems and helping the citizens of Pawston along the way."
+s1384,2021,"Ten master artists turn up the heat in glassblowing sculpture challenges for the chance to win $60,000 in prizes and the title of champion."
+s1385,2021,"Tackling different mysteries in each episode of this game show, seven sleuths get closer to solving the biggest one of all: What happened to Project D?"
+s1389,2021,The ambitious driver for a rich Indian family uses his wit and cunning to escape from poverty and become an entrepreneur. Based on the bestselling novel.
+s1393,2021,"After realizing their babies were exchanged at birth, two women develop a plan to adjust to their new lives: creating a single —and peculiar— family."
+s1395,2021,"The spy game is a serious business, and throughout history, the tools and technologies developed for it have mattered as much as the spies themselves."
+s1396,2021,"BFFs Wesley and Georgie and their silly cat sidekick Pretzel transform into ninjas and enter a magic world, where they solve problems and save the day."
+s1401,2021,"Follow LA's wildly wealthy Asian and Asian American fun seekers as they go all out with fabulous parties, glamour and drama in this reality series."
+s1402,2021,"A master thief who uses her skills for good, Carmen Sandiego travels the world foiling V.I.L.E.'s evil plans – with help from her savvy sidekicks."
+s1403,2021,"Princess duties call, but she'd rather be drinking. Free-spirited Bean exasperates the king as she wreaks havoc with her demon and elf pals."
+s1406,2021,"In the near future, a drone pilot sent into a war zone finds himself paired with a top-secret android officer on a mission to stop a nuclear attack."
+s1411,2021,"When her estranged mother falls into a coma, a self-made single mom grapples with regret and resentment while reflecting on their strained relationship."
+s1412,2021,"In this delightful short documentary, an Italian American grandmother and film buff finds strength and joy in the life of her screen idol, Sophia Loren."
+s1413,2021,"Singing and dreaming together, a talented singer-songwriter and a same-aged keyboardist add harmony and love to each other’s lives."
+s1417,2021,"Beneath the sunlit glamour of 1985 LA lurks a relentlessly evil serial killer. In this true-crime story, two detectives won't rest until they catch him."
+s1419,2021,"In this extended cut of his 2018 special, Chris Rock takes the stage for a special filled with searing observations on fatherhood, infidelity and politics."
+s1421,2021,"A cheap, powerful drug emerges during a recession, igniting a moral panic fueled by racism. Explore the complex history of crack in the 1980s."
+s1425,2021,"On the eve of his 21st birthday, an adored prince must find his one, true soulmate before a spell takes away all love from his kingdom."
+s1426,2021,"A fascinating character. Exquisite sets. A wig for every era. The stars, creators and crew reveal how the hit series about a chess prodigy came to life."
+s1428,2021,"Investigative journalist Paul Connolly becomes a voluntary inmate in the world's most volatile prisons, where intimidation and brutality rule."
+s1430,2021,"With winter behind them, Bheem and his townspeople usher in a sunny new season in all their favorite ways during the Makar Sankranti festival."
+s1431,2021,"Wander the New York City streets and fascinating mind of wry writer, humorist and raconteur Fran Lebowitz as she sits down with Martin Scorsese."
+s1432,2021,"Entrenched in a midlife crisis, Aziz seeks solace from his mundane job, lonesome friends and rowdy family while pretending to have his act together."
+s1433,2021,"A boy suddenly orphaned fights his parents' killer to save a planet, and discovers a new world of danger — and wonder."
+s1437,2021,"The irrepressible Ratones Paranoicos, Argentina's most enduring rock band, are featured in vintage concert and backstage footage as their story's told."
+s1438,2021,"What happens after we die? This docuseries explores personal stories and research on near-death experiences, reincarnation and paranormal phenomena."
+s1440,2021,"Nicolas Cage hosts this proudly profane, funny and engagingly educational series about the history and impact of the most notorious English swear words."
+s1441,2021,"The fun, fondant and hilarious cake fails head to Mexico, where very amateur bakers compete to re-create elaborate sweet treats for a cash prize."
+s1449,2021,"Decades after the tournament that changed their lives, the rivalry between Johnny and Daniel reignites in this sequel to the ""Karate Kid"" films."
+s1450,2021,"Dreams come true for real families looking for the perfect home tailored to their own unique style, thanks to Shea and Syd McGee of Studio McGee."
+s1456,2021,"Headspace takes a friendly, animated look at the benefits of meditation while offering techniques and guided meditations to jump-start your practice."
+s1461,2021,"After 20 years, Ana María returns to Mexico and vies for control of her family's tequila empire as it threatens to crumble under corruption and secrets."
+s1467,2021,They've built a movement out of minimalism. Longtime friends Joshua Fields Millburn and Ryan Nicodemus share how our lives can be better with less.
+s1469,2021,"With the peak of his career long behind him, an actor clings to his past glory — until a sudden wake-up call forces him to face who he's become."
+s1552,2021,"Fearless, free-spirited Hilda finds new friends, adventure and magical creatures when she leaves her enchanted forest home and journeys to the city."
+s1697,2021,"After uncovering a magical locket that allows her to shrink in size, Polly and her friends set out on big adventures with petite power."
+s2921,2021,"Nick and Vanessa Lachey host this social experiment where single men and women look for love and get engaged, all before meeting in person."
+s8438,2021,"Hosts David Spade, Fortune Feimster and London Hughes welcome guests from the newest and biggest Netflix titles for fun conversations, skits and more."
