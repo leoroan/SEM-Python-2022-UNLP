@@ -1,0 +1,23 @@
+# ubico el archivo con denominacion de idiomas (es : español)
+archivo_idiomas = open(os.path.join(os.path.join(os.getcwd(), "archivos"), "idiomas_iso.csv"), 'r')
+# lo cargo en un archivo tipo csv
+csv_reader_idioms = csv.reader(archivo_idiomas, delimiter=',')
+# creo un diccionario a partir del csv 
+dict_idiom = {}
+for elem in csv_reader_idioms:
+  aux = (elem[0].replace("\xa0","").split(";"))
+  dict_idiom[aux[0]] = aux[1]
+
+# de esta manera por cada juego, ubicando en la pos 12 el lenguaje, puedo saber que idioma es.
+lista_nueva_aux = loggs[0][12].split()
+for elem in lista_nueva_aux:
+  print(dict_idiom[elem.lower().replace(",","")])
+
+# pos 7  = "price"
+print(loggs[0][7])
+
+# testeando la salida
+if "ES" in loggs[0][12] and loggs[0][7] == "2.99":
+  print('si')
+else:
+  print('no')
