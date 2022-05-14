@@ -11,7 +11,7 @@ goleadores = df[4]
 # Elimino la primera columna que repetía el indice
 goleadores = goleadores.drop(goleadores.columns[0],axis=1)
 
-# Quiero saber qué goleadores hicieron más de 5 goles
+# Quiero saber qué goleadores hicieron más de "x" goles 
 masde = goleadores [goleadores["Goles"] > 11 ]
 
 # corroboro los datos
